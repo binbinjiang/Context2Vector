@@ -1,5 +1,9 @@
 # Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings
 
+## Overview
+The overall training pipeline of our proposed word embeddings training and post-processing methods：
+![overview](./img/overview.jpg)
+
 The Context2Vector model training framework:
 ![model_framework](./img/model_framework.jpg)
 
