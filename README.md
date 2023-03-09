@@ -1,6 +1,6 @@
 # Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings
 
-This is the official code of the ACL 2022 paper *Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings* [paper](https://aclanthology.org/2022.acl-long.561/).
+This is the official code of the ACL 2022 paper *Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings* [[paper]](https://aclanthology.org/2022.acl-long.561/).
 
 ## Overview
 The overall training pipeline of our proposed word embeddings training and post-processing methods：
