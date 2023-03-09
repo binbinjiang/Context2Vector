@@ -14,7 +14,7 @@ The Context2Vector model training framework:
 
 If you find this code useful please consider citing us:
 
-## BibTeX
+BibTeX
 ```
 @inproceedings{zheng2022using,
   title={Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings},
